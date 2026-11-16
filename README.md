@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>金融 × 数学 × AI 应用</strong><br>
-  西南财经大学 × 特拉华大学 · 金融数学与数据科学本科在读（2028 届）<br>
+  西南财经大学 × 特拉华大学 · 金融数学 × 数据科学本科在读（2028 届）<br>
   把研究、建模和日常工作中反复出现的流程，做成可复用、可追溯来源的工具与 Agent 工作流。
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🎓 **教育**：西南财经大学 金融数学本科；University of Delaware B.S. Finance，辅修 Business Analytics（2024–2028）。
 - 📈 **实习**：华鑫证券研究所互联网 & AI 组、国金证券董事会办公室、中信证券常州分公司。
-- 🏆 **竞赛**：CFA Research Challenge 中国中西部赛区冠军（团队）；安永税务精英挑战赛 大中华区 Top 10、华中赛区亚军（个人）。
+- 🏆 **竞赛**：CFA Research Challenge 中国中西部赛区冠军（团队）；安永税务精英挑战赛（EY Young Tax Professional of the Year, YTPY）大中华区 Top 10、华中赛区亚军（个人）。
 - 🧩 **软件著作权**：Mathgic Studio 数学建模论文 Agent 工作平台 V1.0，登记号 2026SR1152512。
 - 🔭 **关注方向**：博弈论与行为金融、预测市场、随机过程与套利；把方法论沉淀为工作流，让 AI 用起来更顺手。
 

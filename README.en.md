@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Finance × Mathematics × Applied AI</strong><br>
-  SWUFE × University of Delaware · Financial Mathematics & Data Science undergraduate ('28)<br>
+  SWUFE × University of Delaware · Financial Mathematics × Data Science undergraduate ('28)<br>
   Turning the repetitive parts of research, modeling and everyday work into reusable, source-traceable tools and agent workflows.
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🎓 **Education**: B.S. in Financial Mathematics, SWUFE; B.S. in Finance with a minor in Business Analytics, University of Delaware (2024–2028).
 - 📈 **Internships**: Internet & AI team at Huaxin Securities Research Institute, board office at Sinolink Securities, and CITIC Securities Changzhou Branch.
-- 🏆 **Competitions**: CFA Research Challenge, Central & Western China regional champion (team); EY Tax Elite Challenge, Greater China Top 10 and Central China runner-up (individual).
+- 🏆 **Competitions**: CFA Research Challenge, Central & Western China regional champion (team); EY Young Tax Professional of the Year (YTPY), Greater China Top 10 and Central China runner-up (individual).
 - 🧩 **Software copyright**: *Mathgic Studio 数学建模论文 Agent 工作平台 V1.0*, China registration No. 2026SR1152512.
 - 🔭 **Interests**: game theory and behavioral finance, prediction markets, stochastic processes and arbitrage; turning methodology into workflows and making AI easier to use.
 
