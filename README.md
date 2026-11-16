@@ -4,8 +4,8 @@
 
 <p align="center">
   <strong>金融 × 数学 × AI 应用</strong><br>
-  西南财经大学 × 特拉华大学 · 金融数学本科在读（2028 届）<br>
-  把研究、建模和日常工作中重复的流程，做成可以复用、可以核对来源的工具和 Agent 工作流。
+  西南财经大学 × 特拉华大学 · 金融数学与数据科学本科在读（2028 届）<br>
+  把研究、建模和日常工作中反复出现的流程，做成可复用、可追溯来源的工具与 Agent 工作流。
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## 关于
 
-- 🎓 **教育**：西南财经大学特拉华数据科学学院金融数学本科；University of Delaware B.S. Finance，辅修商业分析（2024–2028）。
-- 📈 **实习**：华鑫证券研究所互联网 & AI 组、国金证券董事会办公室、中信证券。
-- 🏆 **竞赛**：CFA Research Challenge 中国中西部赛区冠军（团队）。
+- 🎓 **教育**：西南财经大学 金融数学本科；University of Delaware B.S. Finance，辅修 Business Analytics（2024–2028）。
+- 📈 **实习**：华鑫证券研究所互联网 & AI 组、国金证券董事会办公室、中信证券常州分公司。
+- 🏆 **竞赛**：CFA Research Challenge 中国中西部赛区冠军（团队）；安永税务精英挑战赛 大中华区 Top 10、华中赛区亚军（个人）。
 - 🧩 **软件著作权**：Mathgic Studio 数学建模论文 Agent 工作平台 V1.0，登记号 2026SR1152512。
-- 🔭 **关注方向**：博弈论与行为金融、预测市场、随机过程与套利，以及让 AI 工作流变得可靠、可核对。
+- 🔭 **关注方向**：博弈论与行为金融、预测市场、随机过程与套利；把方法论沉淀为工作流，让 AI 用起来更顺手。
 
 ---
 
@@ -34,7 +34,7 @@
 | --- | --- | --- |
 | [**Mathgic Studio**](https://github.com/Ruoyu-Tianyi/MathgicStudio) | 数学建模竞赛平台，赛题进、论文出：审题、数据、建模、写作、交付五阶段流程，支持国赛 / 美赛配置，已登记软件著作权。· [在线访问](https://www.mathgic-studio.com/) | React · TypeScript · Supabase · Python |
 | [**GTO Reminder**](https://github.com/Ruoyu-Tianyi/GTO_Reminder) | 面向 6–9 人、100 BB 现金桌的双语翻前策略学习工作台：参考范围、完整行动历史、来源追溯与浏览器内胜率模拟。· [在线访问](https://gto.tianyizhou.cn) | React · TypeScript · Web Worker · CFR |
-| [**Auralis**](https://github.com/Ruoyu-Tianyi/singing-key-practice) | 浏览器里的音准与旋律练习室：实时音高追踪、标准音模唱、MusicXML / MIDI 与曲谱图片练习。· [在线访问](https://auralis.tianyizhou.cn/) | TypeScript · Web Audio |
+| [**Auralis**](https://github.com/Ruoyu-Tianyi/auralis) | 浏览器里的音准与节奏练习室：实时音高曲线、标准音模唱、MusicXML / MIDI 与图片 / PDF 曲谱练习；音频只在本机分析。· [在线访问](https://auralis.tianyizhou.cn/) | TypeScript · Web Audio |
 | [**Inkself**](https://github.com/Ruoyu-Tianyi/inkself) | Windows / macOS 个人字迹应用：本地 AI 生成、Markdown 导入、公式排版与手写 PDF 导出。*预览版。* | Python · PyTorch |
 
 ### Agent Skill 与工作流
@@ -42,8 +42,8 @@
 | 项目 | 简介 |
 | --- | --- |
 | [**MathModeling**](https://github.com/Ruoyu-Tianyi/MathModeling) · [**-Codex**](https://github.com/Ruoyu-Tianyi/MathModeling-Codex) · [**-MCM/ICM**](https://github.com/Ruoyu-Tianyi/MathModeling-Codex-MCM_ICM) | 数学建模竞赛 Skill 系列：分阶段完成审题、建模、求解、验证与论文制作，保留证据链和可复现支撑材料。 |
-| [**Equity Research Skill**](https://github.com/Ruoyu-Tianyi/equity-research-skill) | 从 Excel 估值模型到 A 股 / 港股公司深度研报，输出 DOCX + PDF。 |
-| [**QuantCoding Skill**](https://github.com/Ruoyu-Tianyi/QuantCoding-Skill) | 把自然语言交易想法整理为策略规格，生成聚宽、RQAlpha、Backtrader、vn.py 可运行的回测代码。 |
+| [**Equity Research Skill**](https://github.com/Ruoyu-Tianyi/equity-research-skill) | 从 Excel 估值模型到 A 股 / 港股公司深度研报：可编辑 Word、同版 PDF 与可追溯的研究底稿。 |
+| [**QuantCoding Skill**](https://github.com/Ruoyu-Tianyi/QuantCoding-Skill) | 把自然语言交易想法整理为策略规格，基于模板生成聚宽、RQAlpha、Backtrader、vn.py 可运行的回测代码，并经静态自检后交付。 |
 | [**Apply with Browser**](https://github.com/Ruoyu-Tianyi/apply-with-browser) | 跨 Agent 的网申填写 Skill：按简历补齐空白项、保留已填内容、逐项核对，最后由你决定是否提交。 |
 | [**Chrome Quiz Copilot**](https://github.com/Ruoyu-Tianyi/chrome-quiz-copilot) | Chrome 网页练习的中文 AI Skill：读题作答或按标准答案勾选，逐题核对，交卷由你确认。 |
 
@@ -60,8 +60,9 @@
 <summary><strong>更多</strong></summary>
 
 - [**组迹 RepFlow**](https://github.com/Ruoyu-Tianyi/iwatch-gym-record)：原生中文 Apple Watch 健身记录 App，配 iPhone 计划管理（Swift，尚未上架）。
-- [**Vocove 扩展分支**](https://github.com/Ruoyu-Tianyi/vocabulary-notebook)：基于 Eric Zhou 的本地优先词汇本，补充了部分功能。
+- [**Vocove 扩展分支**](https://github.com/Ruoyu-Tianyi/vocabulary-notebook)：基于 Eric Zhou 的本地优先词汇本 Vocove，补充分支功能与 Windows 本地一键升级。
 - [**SWUFE-FullGPA**](https://github.com/Ruoyu-Tianyi/SWUFE-FullGPA)：西财中外合作专业数学与计算机课程资料，大部分经过修订。
+- [**SWUFE FIA 研发部招新站**](https://github.com/Ruoyu-Tianyi/swufejrtz-RnD-2026)：西财金融投资协会研发部 2026 招新面试安排与录取公示网站（已归档）。
 - [**World Cities**](https://github.com/Ruoyu-Tianyi/world-cities)：浏览百万人口以上城市的 Streamlit 应用（课程作业）。
 
 </details>

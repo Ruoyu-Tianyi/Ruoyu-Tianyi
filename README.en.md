@@ -4,8 +4,8 @@
 
 <p align="center">
   <strong>Finance × Mathematics × Applied AI</strong><br>
-  Financial Mathematics undergraduate at SWUFE × University of Delaware ('28).<br>
-  Building research tools, data dashboards and AI agent workflows for finance and quantitative work.
+  SWUFE × University of Delaware · Financial Mathematics & Data Science undergraduate ('28)<br>
+  Turning the repetitive parts of research, modeling and everyday work into reusable, source-traceable tools and agent workflows.
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## About
 
-- 🎓 **Financial Mathematics** at SWUFE × UD Institute of Data Science, with a B.S. in Finance and a minor in Business Analytics from the University of Delaware (2024–2028).
-- 📈 **Research experience** in securities research and capital markets: Internet & AI team at Huaxin Securities Research Institute, board office at Sinolink Securities, and CITIC Securities.
-- 🏆 **CFA Research Challenge**: Central & Western China regional champion (team).
+- 🎓 **Education**: B.S. in Financial Mathematics, SWUFE; B.S. in Finance with a minor in Business Analytics, University of Delaware (2024–2028).
+- 📈 **Internships**: Internet & AI team at Huaxin Securities Research Institute, board office at Sinolink Securities, and CITIC Securities Changzhou Branch.
+- 🏆 **Competitions**: CFA Research Challenge, Central & Western China regional champion (team); EY Tax Elite Challenge, Greater China Top 10 and Central China runner-up (individual).
 - 🧩 **Software copyright**: *Mathgic Studio 数学建模论文 Agent 工作平台 V1.0*, China registration No. 2026SR1152512.
-- 🔭 **Interests**: game theory and behavioral finance, prediction markets, stochastic processes, and turning repetitive research work into reliable, checkable AI workflows.
+- 🔭 **Interests**: game theory and behavioral finance, prediction markets, stochastic processes and arbitrage; turning methodology into workflows and making AI easier to use.
 
 ---
 
@@ -34,7 +34,7 @@
 | --- | --- | --- |
 | [**Mathgic Studio**](https://github.com/Ruoyu-Tianyi/MathgicStudio) | Math-modeling contest platform: problem in, paper out. Five-stage pipeline from problem analysis to Word delivery, with CUMCM / MCM-ICM configurations. Registered software copyright. · [Live](https://www.mathgic-studio.com/) | React · TypeScript · Supabase · Python |
 | [**GTO Reminder**](https://github.com/Ruoyu-Tianyi/GTO_Reminder) | Bilingual preflop study workspace for 6–9 player, 100 BB cash games: reference ranges, full action history, source tracing and in-browser equity simulation. · [Live](https://gto.tianyizhou.cn) | React · TypeScript · Web Worker · CFR |
-| [**Auralis**](https://github.com/Ruoyu-Tianyi/singing-key-practice) | Browser vocal practice studio: real-time pitch tracking, reference-tone singing, MusicXML / MIDI and sheet-image practice. · [Live](https://auralis.tianyizhou.cn/) | TypeScript · Web Audio |
+| [**Auralis**](https://github.com/Ruoyu-Tianyi/auralis) | Browser pitch and rhythm practice studio: real-time pitch curves, reference-tone singing, MusicXML / MIDI and image / PDF sheet-music practice; audio is analyzed locally only. · [Live](https://auralis.tianyizhou.cn/) | TypeScript · Web Audio |
 | [**Inkself**](https://github.com/Ruoyu-Tianyi/inkself) | Personal handwriting desktop app for Windows and macOS: local AI generation, Markdown import, math layout and handwritten PDF export. *Preview release.* | Python · PyTorch |
 
 ### Agent skills & workflows
@@ -42,8 +42,8 @@
 | Project | What it does |
 | --- | --- |
 | [**MathModeling**](https://github.com/Ruoyu-Tianyi/MathModeling) · [**-Codex**](https://github.com/Ruoyu-Tianyi/MathModeling-Codex) · [**-MCM/ICM**](https://github.com/Ruoyu-Tianyi/MathModeling-Codex-MCM_ICM) | A series of math-modeling contest skills: staged problem analysis, modeling, solving, verification and paper production, with evidence chains and reproducible support packages. |
-| [**Equity Research Skill**](https://github.com/Ruoyu-Tianyi/equity-research-skill) | From an Excel valuation model to a full company research report for A-share and HK-listed companies (DOCX + PDF). |
-| [**QuantCoding Skill**](https://github.com/Ruoyu-Tianyi/QuantCoding-Skill) | Natural-language trading ideas → strategy specs → runnable backtest code for JoinQuant, RQAlpha, Backtrader and vn.py. |
+| [**Equity Research Skill**](https://github.com/Ruoyu-Tianyi/equity-research-skill) | From an Excel valuation model to an in-depth research report on A-share and HK-listed companies: editable Word, matching PDF and a traceable research workpaper. |
+| [**QuantCoding Skill**](https://github.com/Ruoyu-Tianyi/QuantCoding-Skill) | Natural-language trading ideas → strategy specs → template-based, runnable backtest code for JoinQuant, RQAlpha, Backtrader and vn.py, delivered after static self-checks. |
 | [**Apply with Browser**](https://github.com/Ruoyu-Tianyi/apply-with-browser) | Cross-agent skill that fills online job and school applications from a résumé, keeps existing entries, checks every field, and leaves submission to you. |
 | [**Chrome Quiz Copilot**](https://github.com/Ruoyu-Tianyi/chrome-quiz-copilot) | Chinese AI skill for web practice quizzes in Chrome: answers or applies an answer key, verifies item by item, and leaves submission to the user. |
 
@@ -60,8 +60,9 @@
 <summary><strong>More</strong></summary>
 
 - [**RepFlow 组迹**](https://github.com/Ruoyu-Tianyi/iwatch-gym-record): native Chinese Apple Watch workout logger with an iPhone companion (Swift; not yet on the App Store).
-- [**Vocove extension**](https://github.com/Ruoyu-Tianyi/vocabulary-notebook): fork of Eric Zhou's local-first vocabulary notebook with added features.
+- [**Vocove extension**](https://github.com/Ruoyu-Tianyi/vocabulary-notebook): fork of Eric Zhou's local-first vocabulary app Vocove, with fork-specific features and one-click local upgrades on Windows.
 - [**SWUFE-FullGPA**](https://github.com/Ruoyu-Tianyi/SWUFE-FullGPA): revised math and computer science course materials for SWUFE international programs.
+- [**SWUFE FIA R&D recruiting site**](https://github.com/Ruoyu-Tianyi/swufejrtz-RnD-2026): interview schedule and admissions site for the 2026 recruitment of the SWUFE Finance & Investment Association R&D department (archived).
 - [**World Cities**](https://github.com/Ruoyu-Tianyi/world-cities): Streamlit app for exploring cities with over one million people (course work).
 
 </details>
